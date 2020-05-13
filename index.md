@@ -11,28 +11,15 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 I am a 22 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
 I enjoy learning new ways to produce an outcome as well as experimenting with my own methods to see if I can produce a better way.
 
-### Header 3
+### Interests
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I am interested in all things game including both code and design as i also really enjoy drawing which allows me to easily create quick models from my drawings in blender.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Current Projects
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   First Person Puzzle Game(University Work) - https://github.com/Ragnar-Dragonson/groupwork
+*   Procedural Cave Generation(UNiversity Work TBC) -
+*   Norse Invasion Scene (TBC) -
 
 ##### Header 5
 
@@ -40,18 +27,9 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
@@ -90,20 +68,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
