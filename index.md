@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Introduction
 
 I am a 22 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
