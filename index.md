@@ -9,7 +9,7 @@ I am interested in all things game including both code and design as i also real
 
 ### Current Projects
 
-*   First Person Puzzle Game(University Work) - https://github.com/Ragnar-Dragonson/groupwork
+*   First Person Puzzle Game(University Work) - [Groupwork](https://github.com/Ragnar-Dragonson/groupwork)
 ![Image2](Images/Image2.png)
 
 *   Procedural Cave Generation(Final Year University Work TBC) -
