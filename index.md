@@ -5,13 +5,11 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 # Ragnar Clarkson's Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Introduction
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I am a 22 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
+I enjoy learning new ways to produce an outcome as well as experimenting with my own methods to see if I can produce a better way.
 
 ### Header 3
 
