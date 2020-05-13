@@ -1,7 +1,7 @@
 # Introduction
 
 I am a 22 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
-I enjoy learning new ways to produce an outcome as well as experimenting with my own methods to see if I can produce a better way.
+I enjoy learning new ways to produce an outcome as well as experimenting with my own methods to see if I can create a better way.
 
 ## Interests
 
