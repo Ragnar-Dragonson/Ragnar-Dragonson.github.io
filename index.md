@@ -14,7 +14,7 @@ I am interested in all things game including both code and design as i also real
 ### Current Projects
 
 *   First Person Puzzle Game(University Work) - https://github.com/Ragnar-Dragonson/groupwork
-https://github.com/Ragnar-Dragonson/Ragnar-Dragonson.github.io/Puzzle/Images/Image1.png
+https://github.com/Ragnar-Dragonson/Ragnar-Dragonson.github.io/blob/master/Images/Image1.png
 *   Procedural Cave Generation(UNiversity Work TBC) -
 *   Norse Invasion Scene (TBC) -
 
