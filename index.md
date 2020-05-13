@@ -9,7 +9,7 @@ I am interested in all things game including both code and design as i also real
 
 ### Current Projects
 
-*   First Person Puzzle Game(University Work) - [Commercial Games Groupwork](https://github.com/Ragnar-Dragonson/groupwork)
+*   First Person Puzzle Game(University Group Work) - [Commercial Games Groupwork](https://github.com/Ragnar-Dragonson/groupwork)
     * ![Image2](GroupWork_Images/Image2.png)
 
 *   Procedural Cave Generation(Final Year Dissertation TBC) -
@@ -17,11 +17,27 @@ I am interested in all things game including both code and design as i also real
 
 ### Old/Finished Projects
 
-* Chatbot using Prolog
+* Chatbot using Prolog -
 
-* Customer/Stylist booking system using C#
+* Customer/Stylist booking system using C# -
 
-* Calendar using Matlab Code
+* Calendar using Matlab Code -
 
+* Client/Server System -
+
+* 3D Graphics
+   * OpenGL - 3D scene with transformations and lighting -
+   
+   * GLSL - Used RenderMonkey to produce a pirate cove scene with visual effects such as fog -
+   
+* 3D Space Maze Game -
+
+### Computer Languages I am familiar with
+
+* C#
+
+* OpenGL
+
+*
 
 ## Thank You For Visiting
