@@ -17,16 +17,11 @@ I am interested in all things game including both code and design as i also real
 
 ### Old/Finished Projects
 
-*
+* Chatbot using Prolog
 
-*
+* Customer/Stylist booking system using C#
 
-*
+* Calendar using Matlab Code
 
-### Social Media/ Contact Information
-
-* Discord - Ragnar_Dragonson#0624
-* Email - Rclarkson2016@gmail.com
-* Steam - http://steamcommunity.com/id/RagnarDragonson
 
 ## Thank You For Visiting
