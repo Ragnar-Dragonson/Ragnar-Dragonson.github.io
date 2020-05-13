@@ -25,6 +25,6 @@ I am interested in all things game including both code and design as i also real
 
 * Discord - Ragnar_Dragonson#0624
 * Email - Rclarkson2016@gmail.com
-* STeam - http://steamcommunity.com/id/RagnarDragonson
+* Steam - http://steamcommunity.com/id/RagnarDragonson
 
 ## Thank You For Visiting
