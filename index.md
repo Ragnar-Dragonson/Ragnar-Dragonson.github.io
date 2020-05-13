@@ -26,9 +26,9 @@ I am interested in all things game including both code and design as i also real
 * Client/Server System -
 
 * 3D Graphics
-   * OpenGL - 3D scene with transformations and lighting -
+   * OpenGL - 3D scene with transformations and lighting - [3D Scene](https://github.com/Ragnar-Dragonson/3D-Graphics/tree/master/OpenGL)
    
-   * GLSL - Used RenderMonkey to produce a pirate cove scene with visual effects such as fog - [Pirate Cove](https://github.com/Ragnar-Dragonson/3D-Graphics)
+   * GLSL - Used RenderMonkey to produce a pirate cove scene with visual effects such as fog - [Pirate Cove](https://github.com/Ragnar-Dragonson/3D-Graphics/tree/master/GLSL)
    
 * 3D Space Maze Game -
 
