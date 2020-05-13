@@ -5,7 +5,7 @@ I enjoy learning new ways to produce an outcome as well as experimenting with my
 
 ## Interests
 
-I am interested in all things game including both code and design as i also really enjoy drawing which allows me to easily create quick models from my drawings in blender.
+I am interested in all things game including both code and design as i also really enjoy drawing which allows me to easily create quick models from my drawings in blender. I also have a massive interest in historical warfare as well as fantasy warfare.
 
 ### Current Projects
 
@@ -17,5 +17,14 @@ I am interested in all things game including both code and design as i also real
 
 ### Old/Finished Projects
 
-## Thank You For Visiting
+*
+*
+*
 
+### Social Media/ Contact Information
+
+* Discord - Ragnar_Dragonson#0624
+* Email - Rclarkson2016@gmail.com
+* STeam - http://steamcommunity.com/id/RagnarDragonson
+
+## Thank You For Visiting
