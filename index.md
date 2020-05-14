@@ -9,15 +9,15 @@ I am interested in all things game including both code and design as i also real
 
 ### Current Projects
 
-*   First Person Puzzle Game(University Group Work) - [Commercial Games Groupwork](https://github.com/Ragnar-Dragonson/groupwork)
-    * ![Image2](GroupWork_Images/Image2.png)
+*   Computer Vision Starfish Identification Software(4th June 2020) -
 
-*   Procedural Cave Generation(Final Year Dissertation TBC) - [Procedural Cave Generation]()
+*   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation]()
 
 *   Norse Invasion Scene (TBC) -
 
 ### Recent/Finished Projects
 
+*   First Person Puzzle Game(University Group Work) - [Commercial Games Groupwork](https://github.com/Ragnar-Dragonson/groupwork)
 
 * 3D Graphics
    * OpenGL - 3D scene with transformations and lighting - [3D Scene](https://github.com/Ragnar-Dragonson/3D-Graphics/tree/master/OpenGL)
@@ -28,11 +28,11 @@ I am interested in all things game including both code and design as i also real
 
 * Chatbot using Prolog - [ChatBot](https://github.com/Ragnar-Dragonson/ChatBot)
 
-* Client/Server System - [Client/Server]()
+* Client/Server System - [Client/Server](https://github.com/Ragnar-Dragonson/Networking/tree/master)
 
-* Customer/Stylist booking system using C# - [Booking System]()
+* Customer/Stylist booking system using C# - [Booking System](https://github.com/Ragnar-Dragonson/Booking-System/tree/master)
 
-* Calendar using Matlab Code - [Calendar]()
+* Calendar using Matlab Code - [Calendar](https://github.com/Ragnar-Dragonson/Calendar/tree/master)
 
 ### Computer Languages I am familiar with
 
