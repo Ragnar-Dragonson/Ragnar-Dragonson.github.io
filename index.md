@@ -9,9 +9,9 @@ I am interested in all things game including both code and design as i also real
 
 ### Current Projects
 
-*   Computer Vision Starfish Identification Software(4th June 2020) -
+*   Computer Vision Starfish Identification Software(4th June 2020) - [Starfish Identification](https://github.com/Ragnar-Dragonson/Starfish-Identification)
 
-*   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation]()
+*   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation](https://github.com/Ragnar-Dragonson/Procedural-Cave-Generation)
 
 *   Norse Invasion Scene (TBC) -
 
