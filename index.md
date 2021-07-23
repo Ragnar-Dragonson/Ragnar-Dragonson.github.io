@@ -1,6 +1,6 @@
 # Introduction
 
-I am a 22 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
+I am a 23 year old programmer that enjoys writing code for gaming projects as well as creating models using blender.
 I enjoy learning new ways to produce an outcome as well as experimenting with my own methods to see if I can create a better way.
 
 ## Interests
@@ -13,7 +13,7 @@ I am interested in all things game including both code and design as i also real
 
 *   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation](https://github.com/Ragnar-Dragonson/Procedural-Cave-Generation)
 
-*   Norse Invasion Scene (TBC) -
+*   2D PixelArt Game
 
 ### Recent/Finished Projects
 
@@ -33,6 +33,8 @@ I am interested in all things game including both code and design as i also real
 * Customer/Stylist booking system using C# - [Booking System](https://github.com/Ragnar-Dragonson/Booking-System/tree/master)
 
 * Calendar using Matlab Code - [Calendar](https://github.com/Ragnar-Dragonson/Calendar/tree/master)
+
+* AR Test Project - [AR](https://github.com/Ragnar-Dragonson/AR-test)
 
 ### Computer Languages I am familiar with
 
