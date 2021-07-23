@@ -13,7 +13,7 @@ I am interested in all things game including both code and design as i also real
 
 *   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation](https://github.com/Ragnar-Dragonson/Procedural-Cave-Generation)
 
-*   2D PixelArt Game
+*   2D PixelArt Game - [2D Pixel Art](https://github.com/Ragnar-Dragonson/AR-test)
 
 ### Recent/Finished Projects
 
