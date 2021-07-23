@@ -13,6 +13,8 @@ I am interested in all things game including both code and design as i also real
 
 ### Recent/Finished Projects
 
+* AR Test Project - [AR](https://github.com/Ragnar-Dragonson/AR-test)
+
 *   Procedural Cave Generation(Final Year Dissertation 4th June 2020) - [Procedural Cave Generation](https://github.com/Ragnar-Dragonson/Procedural-Cave-Generation)
 
 *   Computer Vision Starfish Identification Software(4th June 2020) - [Starfish Identification](https://github.com/Ragnar-Dragonson/Starfish-Identification)
@@ -34,7 +36,6 @@ I am interested in all things game including both code and design as i also real
 
 * Calendar using Matlab Code - [Calendar](https://github.com/Ragnar-Dragonson/Calendar/tree/master)
 
-* AR Test Project - [AR](https://github.com/Ragnar-Dragonson/AR-test)
 
 ### Computer Languages I am familiar with
 
