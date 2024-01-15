@@ -9,7 +9,7 @@ I am interested in all things game including both code and design as i also real
 
 ### Current Projects
 
-*   2D PixelArt Game - [2D Pixel Art](https://github.com/Ragnar-Dragonson/AR-test)
+*   Unity based 3D Western Game
 
 ### Recent/Finished Projects
 
